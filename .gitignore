@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+=======
+Tokens/ig_client_secret.csv
+Tokens/ig_token.csv
+Tokens/lta_api_token.csv
+>>>>>>> 52d8762c59a422b02c375fc333ba5f9158dd969e
